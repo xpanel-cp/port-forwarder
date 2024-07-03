@@ -1,3 +1,17 @@
+<p align="center">
+	<a href="./README-EN.md">
+	English
+	</a>
+	/
+	<a href="./README-RU.md">
+	Russian
+	</a>
+	/
+	<a href="./README.md">
+	فارسی
+	</a>
+</p>
+
 # XForwarder
 برای انتقال ترافیک (تانل) دستور زیر را روی سرور اول خود که قصد دارید به سرور دوم تانل شود اجرا کنید <br>
 ```
