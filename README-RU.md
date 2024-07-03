@@ -1,3 +1,17 @@
+<p align="center">
+	<a href="./README-EN.md">
+	English
+	</a>
+	/
+	<a href="./README-RU.md">
+	Russian
+	</a>
+	/
+	<a href="./README.md">
+	فارسی
+	</a>
+</p>
+
 # XForwarder
 Чтобы проложить туннель трафика (перенаправление портов) с первого сервера на второй, выполните следующую команду на первом сервере:<br>
 
