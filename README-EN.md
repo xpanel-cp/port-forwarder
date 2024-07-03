@@ -1,3 +1,17 @@
+<p align="center">
+	<a href="./README-EN.md">
+	English
+	</a>
+	/
+	<a href="./README-RU.md">
+	Russian
+	</a>
+	/
+	<a href="./README.md">
+	فارسی
+	</a>
+</p>
+
 # XForwarder
 To tunnel traffic (port forwarding) on your first server to your second server, run the following command:<br>
 
